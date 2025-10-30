@@ -5,6 +5,9 @@ This repository contains a Power BI project (`project1.pbix`) designed to analyz
 ## 📊 Dashboard Preview
 
 
+![Main Dashboard Overview](1.png)
+
+
 
 
 ## 📋 Project Features & Key Analyses
