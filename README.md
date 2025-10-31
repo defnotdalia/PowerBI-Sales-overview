@@ -4,15 +4,16 @@ This repository contains a Power BI project (`project1.pbix`) designed to analyz
 
 ## 📊 Dashboard Preview
 
-
+### Page 1: Main Dashboard Overview
 ![Main Dashboard Overview](1.png)
-*Page 1: Main Dashboard Overview*
+### Page 2: Product Detail Analysis
+
 ![Product Detail Analysis](2.png)
-*Page 2: Product Detail Analysis*
+### Page 3: Sales Trend View
 ![Sales Trend View](3.png)
-*Page 3: Sales Trend View*
+### Page 4: Geographical Sales Map
 ![Geographical Sales Map](4.png)
-*Page 4: Geographical Sales Map*
+
 
 
 
